@@ -12,10 +12,8 @@ Used electronjs for building the app with mapboxjs for visualisating the map its
 
 
 # How to run the app:
-- clone/download the repository then run the following commands in the root folder
-- run 'npm install' command to install all dependencies
-- run 'npm start' to launch the app and test it
-- run 'npm make' to build the app for distribution/packaging
+- clone/download the repository and then run the exe file to open the app
+
 
 # Wikiepedia Link Of the Table That Was Extracted:
 https://en.wikipedia.org/wiki/Research_stations_in_Antarctica
